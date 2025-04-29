@@ -59,6 +59,7 @@ cd pokemon-explorer
 ```bash
 npm install
 ```
+```bash
 npm run dev
 ```
 
