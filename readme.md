@@ -4,11 +4,11 @@ A React application that fetches data from the [PokeAPI](https://pokeapi.co/) an
 
 ## 🌐 Live Demo
 
-🔗 [View Deployed App](https://your-deployed-link.com)
+🔗 (https://pokemon-explorer-gules.vercel.app/)
 
 ## 📂 GitHub Repository
 
-🔗 [GitHub Repo](https://github.com/Arbaz001/pokemon-explorer)
+🔗 (https://github.com/Arbaz001/pokemon-explorer)
 
 ---
 
