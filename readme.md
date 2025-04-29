@@ -14,9 +14,8 @@ A React application that fetches data from the [PokeAPI](https://pokeapi.co/) an
 
 ## 📸 Preview
 
-![Pokemon Explorer Screenshot]
-(Screenshot 2025-04-29 115052.png)
-(Screenshot 2025-04-29 115138.png)<!-- Optional: add a screenshot if available -->
+![Pokemon Explorer Screenshot](ss1.png)<!-- Optional: add a screenshot if available -->
+![Pokemon Explorer Screenshot](ss2.png)<!-- Optional: add a screenshot if available -->
 
 ---
 
