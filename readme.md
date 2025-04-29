@@ -8,7 +8,7 @@ A React application that fetches data from the [PokeAPI](https://pokeapi.co/) an
 
 ## 📂 GitHub Repository
 
-🔗 (https://github.com/Arbaz001/pokemon-explorer)
+🔗 (https://github.com/Arbaz001/pokemon_explorer)
 
 ---
 
